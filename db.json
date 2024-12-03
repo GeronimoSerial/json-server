@@ -1,0 +1,78 @@
+{
+  "profesores": [
+    {
+      "nombre": "Geronimo",
+      "apellido": "Serial",
+      "edad": 25,
+      "Materias": [
+        {
+          "materia": "Matematicas"
+        },
+        {
+          "materia": "Fisica"
+        },
+        {
+          "materia": "Historia"
+        }
+      ],
+      "id": "9cfa"
+    },
+    {
+      "id": "9cfa",
+      "nombre": "Raul",
+      "apellido": "Alfonsin",
+      "edad": 59,
+      "Materias": [
+        {
+          "materia": "Matematicas"
+        },
+        {
+          "materia": "Fisica"
+        },
+        {
+          "materia": "Historia"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Pedro",
+      "apellido": "Perez",
+      "promedio": 8.2,
+      "id": "57a0"
+    },
+    {
+      "nombre": "Maria",
+      "apellido": "Gomez",
+      "promedio": 7.5,
+      "id": "ead8"
+    },
+    {
+      "nombre": "Luis",
+      "apellido": "Garcia",
+      "promedio": 9.5,
+      "id": "d68a"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJS desde cero",
+      "duracion": 7,
+      "dificultad": "facil",
+      "id": "7e5f"
+    },
+    {
+      "nombre": "Angular desde cero",
+      "duracion": 8,
+      "dificultad": "intermedio",
+      "id": "596d"
+    },
+    {
+      "nombre": "React desde cero",
+      "duracion": 7,
+      "dificultad": "dificil",
+      "id": "315a"
+    }
+  ]
+}
